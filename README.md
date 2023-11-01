@@ -2,6 +2,10 @@
 
 ## Week 1
 
+### Week 1 - Day 1
+
+- Installation
+
 ### Week 1 - Day 2
 
 - OSI Layers - fundamentals
@@ -15,3 +19,16 @@
 - Decimal -> Binary conversion
 - Private IPv4 address classes - class A, class B, class C
 - Subnet masking - subnet division
+
+### Week 1 - Day 3
+
+- Route Tables
+- ARP address resolution protocol
+- IP Routing on Layer 3
+- Layer 3 problems
+- Layer 4 - Transport
+- TCP vs. UDP
+- TCP segments
+- TCP 3 ways handshakes
+- VSCode navigation & shortcut tutorials
+- Markdown
