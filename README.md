@@ -63,3 +63,4 @@
 - `git merge [branch name]`, usually from `main` branch to pull changes to `main`
 - `git branch -a --merged` to see past merged branches
 - `git branch -d [branch name]`, to do delete branches, but this is not recommended
+- Create Repo on Github > Clone to local > make local commit > push changes with `git push`
