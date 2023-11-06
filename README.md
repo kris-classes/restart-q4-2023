@@ -65,7 +65,9 @@
 - `git branch -d [branch name]`, to do delete branches, but this is not recommended
 - Create Repo on Github > Clone to local > make local commit > push changes with `git push`
 
-## Week 2 - Day 1
+## Week 2 
+
+### Week 2 - Day 1
 
 - Python in REPL mode
 - variable & value assignment
