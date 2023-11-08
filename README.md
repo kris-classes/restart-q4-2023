@@ -83,3 +83,27 @@
 - casting types `int(my_string)` or `str(my_float)`
 - type hinting via type assignment
 - no true constant problem in Python
+
+### Week 2 - Day 2
+
+- `tupple` type similar to `list` but it is immutable
+- `sets` type, theory of how git works with `my_set.intersection(other_set)` & `my_set.difference(other_set)`
+- dictionary `dict` type, `dict()` initialization
+- `open()` to open files
+- `boolean` type and logic evaluation
+- `if elif else` flow control
+- `while/break` loop
+
+### Week 2 - Day 3
+
+- `match/case` flow control
+- `Enum` class via import `from enum import Enum`
+- `match/case` and `Enum` combination for clean flow control
+- `for` loop with `range(x)`
+- `for` loop to iterate over a `list`
+- `list` comprehension, quickly transform individual items of a `list` and put into a new `list`
+- `for` loop with access to both `index` and `item` of a `list` with `for index,item in enumerate(my_list):`
+- `for` loop with access to `key` and `value` of a `dict` with `for k,v in my_dict.items():`
+- simple Queue data structure implementation via `list`
+- `functions`, pure and impure functions, input/output, side effects
+- in scope and out of scope
