@@ -107,3 +107,32 @@
 - simple Queue data structure implementation via `list`
 - `functions`, pure and impure functions, input/output, side effects
 - in scope and out of scope
+
+### Week 2 - Day 4
+
+- `Exception` basics
+- `assert`
+- simple unit testing with `assert`
+- `try/except` flow
+- assign `Exception` into variable for further actions `except Exception as e`
+- multiple `try/except` flows
+- `try/except/else` flow
+
+### Week 2 - Day 5
+
+- `class` and `object` concepts
+- creating `class` and `object`
+- `class`: property, method, `__dict__` representation
+- simple inheritance
+- inheritance with custom property and method override
+
+## Week 3
+
+## Week 3 - Day 1
+
+- sub-modules
+- data transfer object theory (`DTO`)
+- `dataclasses`
+- `Pydantic` package
+- `dataclasses` vs. `Pydantic`
+- `@classmethod`
