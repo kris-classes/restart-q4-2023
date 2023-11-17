@@ -128,7 +128,7 @@
 
 ## Week 3
 
-##3 Week 3 - Day 1
+### Week 3 - Day 1
 
 - sub-modules
 - data transfer object theory (`DTO`)
