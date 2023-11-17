@@ -128,7 +128,7 @@
 
 ## Week 3
 
-## Week 3 - Day 1
+##3 Week 3 - Day 1
 
 - sub-modules
 - data transfer object theory (`DTO`)
@@ -136,3 +136,39 @@
 - `Pydantic` package
 - `dataclasses` vs. `Pydantic`
 - `@classmethod`
+ 
+### Week 3 - Day 2
+
+- Regex, Regex visualizer, Regex testing
+- Integration theory: messaging, file sharing, RPC (includes `REST API` & `gRPC`)
+- `OSI Layers` revision
+- `JSON` serialization & `JSON` parsing
+- `Postman API Client`
+- Testing some public API such as `http.cat`
+
+### Week 3 - Day 3
+
+- API theory: `Data Transfer Object` or `DTO`
+- Building API on top of `Pydantic Schema` classes
+- `HTTP Codes`
+- `FastAPI input auto-parser` via Pydantic classes
+- `PUT` API building
+- `GET` API building
+- Distinguish 4 ways to provide data: `Header`, `Body`, `Path Parameters`, `Query Parameters`
+- `API auto-docs`
+
+### Week 3 - Day 4
+
+- `API auto-docs` best practices - including always type hint your API returns
+- Adding basic persistence for API
+- Continuation with API: `PUT`, `GET`, `DELETE`, and `GET` multiple items
+
+### Week 3 - Day 5
+
+- VSCode debugger setup
+- Debugging techniques
+- Dependency injection theory
+- Testing theory: unit testing, integration testing, end-end testing, smoke testing, regression testing...
+- Pytest unit testing `pytest`, `pytest -s`, `pytest --vl`
+- FastAPI TestClient `from fastapi.testclient import TestClient`
+- unit testing API
