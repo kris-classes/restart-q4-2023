@@ -172,3 +172,65 @@
 - Pytest unit testing `pytest`, `pytest -s`, `pytest --vl`
 - FastAPI TestClient `from fastapi.testclient import TestClient`
 - unit testing API
+
+## Week 4
+
+### Week 4 - Day 1
+
+- Pytest Fixture
+- Using `@pytest.fixture` to create new instance of API Client for each test, or set default data
+- Parametizing test functions `@pytest.mark.parametrize`
+- Data Access Object theory `DAO`
+
+### Week 4 - Day 2
+
+- Install DB client within VSCode
+- Installing SQLite
+- Playing with Sakila.db
+- SQL `SELECT`, `COUNT`, `DISTINCT`, `GROUP BY`, `WHERE`, `LIMIT`, `OFFSET` with logic operators
+- SQL `JOIN` 
+- SQL `INSERT INTO ... VALUES`
+- SQL `UPDATE`
+
+### Week 4 - Day 3
+
+- More SQL `UPDATE`
+- Python virtual environment `venv`
+- SQLModel - as a Relational Object Mapping tool (ORM)
+- Revisit DTO, DAO theory
+- Building simple SQL model
+- Building simple API with automatic DTO <-> DAO conversion
+
+### Week 4 - Day 4
+
+- SQL `primary key` vs `index key` vs `compound index key`
+- SQL `foreign key` constraint
+- Building APIs with SQLModel ORM
+- Learning why we should have dedicated DTO & DAO layers, shouldn't rely on automatic conversion
+
+### Week 4 - Day 5
+
+- Mainly to discuss Assignment 1
+
+## Week 5
+
+### Week 5 - Day 1
+
+- Intro to Cloud Computing
+- `IaaS` vs. `PaaS` vs. `SaaS`
+- Platform engineering responsibility
+
+### Week 5 - Day 2
+
+- Advantages of Cloud Computing
+- What is AWS?
+- AWS Pricing Model and unit cost charges
+- FinOps
+- Total Cost of Ownership comparison
+- AWS `API` vs. `Management Console` vs. `CLI` vs. `SDK`
+
+### Week 5 - Day 3
+
+### Week 5 - Day 4
+
+### Week 5 - Day 5
