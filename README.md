@@ -231,6 +231,33 @@
 
 ### Week 5 - Day 3
 
+- AZ, and why use 3 AZs
+- Region
+- Local services vs. Global services (domain name services DNS, IAM, CDN)
+- POP = Edge Locations + Edge Caches
+- CDN
+- Storage Services overview
+- Networking Services overview
+- Security Services overview
+- Management Services overview - Landing Zone and why split AWS accounts
+- Integration Services overview
+
 ### Week 5 - Day 4
+
+- Shared responsibility model examples (Self managed DB vs. RDS)
+- S3 Service concepts 
+- S3 Tiers
+- S3 DNS overview
+- S3 Cost charges model
+- EC2 recommended usecases
+- Create EC2 instance 
+  - AMI & Golden Image practice
+  - Instance Type, Instance family & size
+  - Network settings, high availability setups
+  - IAM Role, Instance profile
+  - User data script
+  - Instance Store vs. EBS drives
+  - Tag & ABAC
+  - TBC...
 
 ### Week 5 - Day 5
