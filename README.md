@@ -334,3 +334,33 @@
   - IAM User
   - IAM Group
   - Condition & permission boundary example
+
+## Week 7
+
+### Week 7 - Day 1
+
+- RDS vs. DynamoDB
+  - Deployment model
+  - Access via VPC
+  - Performance
+  - Scaling characteristic
+  - Pricing structure
+  - Consistency profile
+- DynamoDB
+  - Partitioning
+  - Primary key vs. Compound Key (Partition Key, Sort Key)
+  - WCR, RCU
+  - On-demand vs. Provisioned Throughput
+  - Query
+  - Scan
+  - GSI - global secondary index
+  - Global table
+  - DynamoDB Stream, capturing change data capture, upsert table, enabling analytics
+
+### Week 7 - Day 2
+
+### Week 7 - Day 3
+
+### Week 7 - Day 4
+
+### Week 7 - Day 5
