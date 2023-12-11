@@ -261,3 +261,76 @@
   - TBC...
 
 ### Week 5 - Day 5
+
+- EC2 labs
+- Linux commands labs
+- Stateful vs. Stateless firewalls
+- Security Groups
+- Practical ways to use Security Groups
+- How multiple component groups work together via ALB, dedicated Security Group for different application component groups
+
+## Week 6
+
+### Week 6 - Day 1
+
+- How DNS works, TLD, Name Server, Zone, Zone File
+- Traversing DNS Tree
+- DNS Records: NS, A, AAAA, Alias (unique to AWS), CNAME, TXT
+- Drawio, multiple drawing exercises
+
+### Week 6 - Day 2
+
+- Public & Private IP
+- IGW
+- Security Group
+- NACL
+- ALB
+- NATGW
+- Subnets division & intro to VPC design
+
+### Week 6 - Day 3
+
+- More networking protocols and standard TCP ports
+- Comprehensive VPC design
+  - How many application tiers (ALB/NATGW, web, app, db...)
+  - How many AZs
+  - Design the subnets
+  - Design public facing tiers ALB/NATGW/Internet GW
+  - Design route tables
+  - Design the security group
+
+### Week 6 - Day 4
+
+- Security Fundamentals
+- Prevention methods: Networking
+  - NACL
+  - SG
+  - WAF
+  - IPS
+  - Subnetting, zoning
+  - AWS Network Firewall's implementation
+- Prevention methods: PKI
+  - DNS
+  - CA
+  - DNSSEC (more later)
+  - Use of CA's certificates
+  - Application of ACM
+
+### Week 6 - Day 5
+
+- Prevention methods: Data Security
+  - Data at rest vs. Data in transit
+  - Symmetric vs. Asymmetric vs. Hybrid encryption revision
+  - KMS (API only + multi-tenancy) vs. CloudHSM (normally only PKCS 11 or other low level interfaces)
+  - Hashing
+  - Key algorithm available
+  - Never use same key pairs for both encryption & signing
+  - Import key materials to KMS
+  - Provide CloudHSM with API interface of KMS
+  - CloudHSM deployment model
+- Prevention methods: IAM
+  - IAM Policy
+  - IAM Role
+  - IAM User
+  - IAM Group
+  - Condition & permission boundary example
