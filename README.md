@@ -359,8 +359,87 @@
 
 ### Week 7 - Day 2
 
+- DevOps team job functions
+  - DevOps Engineer
+  - Cloud Engineer
+  - Site Reliability Engineer
+  - Platform Engineer
+  - Pipeline Engineer
+  - Integration Engineer
+- System Manager overview
+- Parameter Store, KMS deep discussion
+- IaC imperative vs. declarative
+- Cloud Formation
+
 ### Week 7 - Day 3
+
+- Elastic Load Balancing
+- Types of load balancers:
+  - Application
+  - Gateway
+  - Network
+  - Classic
+- Bastion host
+- Autoscaling applications:
+  - ALB
+  - Target group
+  - Register EC2 instance into Target groups
+  - Create Listener to ALB
+- Types of scaling rules:
+  - Manual
+  - Scheduled
+  - Dynamic - via metric and alarms
+  - Predictive
+- Auto scaling best practices
 
 ### Week 7 - Day 4
 
-### Week 7 - Day 5
+- Route 53 services, highlighted routing 
+  - Simple
+  - Failover
+  - IP based
+  - Geolocation based
+- CloudFront
+  - Concepts of how CDN delivery & secure contents
+  - TTL and invalidations
+  - SSL/SNI
+  - OAI
+  - Custom Geolocation distribution
+  - Private content hosting
+- Lambda service & usecases
+
+## Week 8
+
+### Week 8 - Day 1
+
+- System design primer:
+  - Scalability
+  - Scalability components
+  - Scalability & Performance tradeoff
+  - Latency vs. Throughput
+  - CAP theory
+  - Eventual vs. Strong consistency 
+  - Active-Passive failover, Active-Active failover
+  - Availability
+  - CDN
+  - Stateful vs. Stateless applications
+  - Load Balancing
+  - Microservices
+  - Normalization vs. Denormalization
+
+### Week 8 - Day 2
+
+- Serverless framework intro
+- AWS CLI setup
+- S3 handson 
+- Lambda handson
+- S3 Events to trigger Lambda
+
+### Week 8 - Day 3
+
+- IAM Policy design
+- S3 Events to trigger Lambda to resize images
+
+### Week 8 - Day 4
+
+- Assignment 2 handsout
